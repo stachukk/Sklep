@@ -1,0 +1,182 @@
+body
+{
+  background-color: white;
+}
+
+img
+{
+    height: 200px;
+    width: 200px;
+}
+
+#head
+{
+ 
+    height: 200px;
+    background-color: white;
+    float: left;
+    width: 33%;
+}
+
+#head2
+{
+    text-align: center;
+    width: 33%;
+    float: left;
+    
+}
+
+#head3
+{
+    background-color: rgb(54, 50, 50);
+    width: 33%;
+    float: left;
+    height: 200px;
+    
+}
+
+#nav
+{
+    height: 30px;
+    width: auto;
+    background-color: blueviolet;
+    text-align:right;
+    clear: both;
+}
+
+article
+{
+    text-align: center;
+    height: 100px;
+    width: 50%;
+    background-color: seagreen;
+    float: left;
+  
+    
+}
+
+aside
+{
+    text-align: center;
+    height: 120px;
+    width: 50%;
+    background-color: green;
+    float: right;
+ 
+}
+
+#podart
+{
+    background-color: salmon;
+    float: left;
+    margin-bottom: -9px;
+    width: 50%;
+    height: 20px;
+    
+}
+
+#przerwa
+{
+    text-align: center;
+    background-color: pink;
+    clear: both;
+}
+
+#menu
+{
+    background-color: skyblue;
+    height: 50px;
+    width: auto;
+    text-align: center;
+}
+
+#zamow
+{
+    background-color: skyblue;
+    height: 50px;
+    width: auto;
+    text-align: center;
+}
+
+#menu2
+{
+    background-color: skyblue;
+    height: 50px;
+    width: auto;
+    text-align: left;
+}
+
+#menu3
+{
+    background-color: skyblue;
+    height: 50px;
+    width: auto;
+    text-align: center;
+}
+
+#alko
+{
+    background-color: skyblue;
+    height: 50px;
+    width: auto;
+    text-align: center;
+}
+
+#godziny
+{
+    background-color: skyblue;
+    height: 50px;
+    width: auto;
+    text-align: center;
+}
+
+#kontakt
+{
+    background-color: skyblue;
+    height: 50px;
+    width: auto;
+    text-align: center;
+}
+
+#mapa
+{
+    background-color: skyblue;
+    height: 50px;
+    width: auto;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer
+{
+    text-align: right;
+    width: auto;
+    height: 20px;
+    background-color: black;
+    margin-left: -9px;
+    margin-right: -9px;
+    clear: both;
+}
