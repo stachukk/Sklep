@@ -3,11 +3,7 @@ body
   background-color: white;
 }
 
-img
-{
-    height: 200px;
-    width: 200px;
-}
+
 
 #head
 {
@@ -23,25 +19,37 @@ img
     text-align: center;
     width: 33%;
     float: left;
+    height: 200px;
     
 }
 
+
 #head3
 {
-    background-color: rgb(54, 50, 50);
+    background-color:white;
     width: 33%;
     float: left;
     height: 200px;
-    
+    text-align: center;
+
 }
 
 #nav
 {
     height: 30px;
-    width: auto;
+    width: 50%;
     background-color: blueviolet;
     text-align:right;
-    clear: both;
+    float: left;
+}
+
+#nav2
+{
+    height: 30px;
+    width: 50%;
+    background-color: rgb(169, 119, 216);
+    text-align:left;
+    float: left;
 }
 
 article
@@ -51,7 +59,9 @@ article
     width: 50%;
     background-color: seagreen;
     float: left;
-  
+    text-align: center;
+    font-family: monospace;
+    font-size: 40px;
     
 }
 
@@ -62,7 +72,6 @@ aside
     width: 50%;
     background-color: green;
     float: right;
- 
 }
 
 #podart
@@ -71,7 +80,7 @@ aside
     float: left;
     margin-bottom: -9px;
     width: 50%;
-    height: 20px;
+    height: 120px;
     
 }
 
